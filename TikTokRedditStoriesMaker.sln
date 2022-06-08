@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TikTokRedditStoriesMaker", "TikTokRedditStoriesMaker\TikTokRedditStoriesMaker.pyproj", "{CCC03322-2E6E-410F-804E-DB800585D1A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC03322-2E6E-410F-804E-DB800585D1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC03322-2E6E-410F-804E-DB800585D1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78400455-F4D4-4DFE-8628-F1DE42181053}
+	EndGlobalSection
+EndGlobal
